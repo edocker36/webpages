@@ -6,12 +6,14 @@
  *Description: [Assignment Description]
  */
  
+/* Paragraph styling */
 p {
-    font-family: Times;
+    font-family: Times, serif;
     font-size: 16px;
     color: #DECAFF;
 }
 
+/* Table border styling */
 .table-border {
     border: 1px solid #DECAFF;
     border-collapse: collapse;
@@ -20,11 +22,13 @@ p {
 .table-border th,
 .table-border td {
     border: 1px solid #DECAFF;
-    padding: 8px;
-    text-align: left;
+    padding: 5px;
 }
 
+/* Image styling */
 #photo-resize {
     max-width: 250px;
     max-height: 300px;
+    display: block;
+    margin-bottom: 15px;
 }

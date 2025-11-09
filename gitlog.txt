@@ -1,3 +1,15 @@
+commit 06e941e6daea9681e70281efeb9fba0a5afa4d2a
+Author: Elisha <edocker@ncsu.edu>
+Date:   Sun Nov 9 13:54:55 2025 -0500
+
+    Rename index.html to webpagesGL.html for autograder
+
+commit c9fc032cd41c2e71d9f40ef96565c0e410d6e018
+Author: Elisha <edocker@ncsu.edu>
+Date:   Sun Nov 9 13:53:35 2025 -0500
+
+    Add gitlog.txt with commit history
+
 commit 45b3e93090461b7d28c03a114dcedd9bb23e9aae
 Author: Elisha <edocker@ncsu.edu>
 Date:   Sun Nov 9 01:27:31 2025 -0500
