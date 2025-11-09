@@ -1,0 +1,41 @@
+commit 45b3e93090461b7d28c03a114dcedd9bb23e9aae
+Author: Elisha <edocker@ncsu.edu>
+Date:   Sun Nov 9 01:27:31 2025 -0500
+
+    edit name
+
+commit 95db0d36d26207d4b5e33c2cb2bec262b64bb067
+Author: Elisha <edocker@ncsu.edu>
+Date:   Sun Nov 9 01:13:31 2025 -0500
+
+    updating my style sheets
+
+commit 917c260402ab3db0b74e150e4ce19c0ec50ef8aa
+Author: edocker36 <edocker@ncsu.edu>
+Date:   Sun Nov 9 01:07:41 2025 -0500
+
+    Delete Trail.html
+
+commit 7ca10370762447e98fb58b9bccdcc1ae9e7b074e
+Author: Elisha <edocker@ncsu.edu>
+Date:   Sun Nov 9 00:54:27 2025 -0500
+
+    update to my webpage and stylesheet
+
+commit 0dcc0e9c58b9efca678cd8b8fadf85de288ee2c0
+Author: Elisha <edocker@ncsu.edu>
+Date:   Sat Nov 8 23:42:32 2025 -0500
+
+    adding template files
+
+commit 5d64aa930e0ba520fde2049dddba453d93233247
+Author: edocker36 <edocker@ncsu.edu>
+Date:   Sat Nov 8 22:54:44 2025 -0500
+
+    Create Trail.html
+
+commit 509fd15da045945fe279220d7ec80b644a58dba8
+Author: edocker36 <edocker@ncsu.edu>
+Date:   Sat Nov 8 22:51:34 2025 -0500
+
+    Initial commit
