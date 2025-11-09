@@ -26,12 +26,9 @@ p {
 }
 
 /* Image styling */
-#photo-resize {
-  #photo-resize {
+#photo-styling {
     width: 250px;
     height: 300px;
     display: block;
     margin-bottom: 15px;
-}
-
 }
