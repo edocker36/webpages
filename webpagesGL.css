@@ -9,14 +9,22 @@
 p {
     font-family: Times;
     font-size: 16px;
-    color: #DECAFF
+    color: #DECAFF;
 }
 
 .table-border {
     border: 1px solid #DECAFF;
+    border-collapse: collapse;
+}
+
+.table-border th,
+.table-border td {
+    border: 1px solid #DECAFF;
+    padding: 8px;
+    text-align: left;
 }
 
 #photo-resize {
     max-width: 250px;
-    max-height: 300;
+    max-height: 300px;
 }
